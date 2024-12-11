@@ -1,0 +1,100 @@
+/*Estilo para todo el documemo*/
+body {
+         background-image: url("fondo.jpg");
+         font-family: Tahoma;
+         font-size: 11px;
+         width: 1280px;
+         margin: auto;
+}
+/*Estilo para la imagen de arriba*/
+#logo {
+        background:
+url("hilo.png")no-repeat
+right;
+
+         margin: 0 auto:
+         background-size: 50%;
+         padding: 20em 0em 0em 0em;
+         text-transform: uppercase;
+         width: 1200;
+}
+/*Estilo para la etiqueta a incluida en H11*/
+#logo h1 a {
+         margin: 0em:
+         padding: 0em 0em 0em 0em;
+         letter-spacing: -.1em,
+         text-decoration: none;
+         font-size: 2em;
+         font-weight: bold;
+         color: #938A8F;
+}
+/*Estilo para el subtitulo "BIENVENIDOS A NUESTRO SITIO WEB"*/
+#subtitulo {
+         padding: 0em;
+         margin-top: -1em;
+         font-size: 1.5em;
+         color: #0D0C0C;
+}
+/*Estilo para los elementos de la lista del Menu de opciones*/
+#menu li {
+         display: inline-block;
+}
+/*Estilo para la etiqueta del Menu de 
+opciones*/
+#menu a {
+         display: block;
+         float: left;
+         margin-right: 0.12em;
+         padding: 1em 1.5em;
+         background-image: url("rose-petals.png");
+         box-shadow: inset 0px -2px 0px 0px
+rba(0,0,0,0.25);
+         text decoration: none;
+         text-shadow: 1px 1px 0px #OC749C;
+         text-transform: uppercase;
+         font-size: -90em;
+         color: #FFFFFF;
+}
+/*Estilo para la seccion que muestra el
+contenido*/
+#seccion{
+         width: 1150px;
+         padding: 20px 40px;
+         background: #DECEDF;
+         height: 1000px;
+         border: black 2px solid;
+         font-size: x-large;
+}
+/*Estilo para la imagen que se encuentra
+dentro de la seccion*/
+#imagen{
+         margin-top: 2em;
+         width: 330px;
+         height: 250px;
+         text-align: center;
+         border: black 2px solid;
+}
+/*Estilo para el titulo dentro de la seccion*/
+#subtitulo2{
+         font-family:Tahoma, Geneva, sans-
+serif;
+         font-size: 25px;
+         color: #039;
+}
+/*Estilo para el texto del lado derecho*/
+#ladoderecho{
+         margin: -5px 20px 0px 0px;
+         float:right;
+         width: 65%;
+         text-align: justify;
+         color: #666;
+}
+/*Estilo para el pie del documento */
+#pie{
+         text-align: center;
+/*Estilo para todo los parrafos del
+documento*/
+p {
+         font-family:Tahoma;
+         font-size: 11pt;
+}
